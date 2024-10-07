@@ -1,0 +1,3 @@
+orderPort: 10001
+stockPort: 10002
+accountPort: 10003
